@@ -1,0 +1,5 @@
+F:\VS10Pro\TimerEvent\TimerEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VS10Pro\TimerEvent\TimerEvent\bin\Debug\TimerEvent.exe
+F:\VS10Pro\TimerEvent\TimerEvent\bin\Debug\TimerEvent.pdb
+F:\VS10Pro\TimerEvent\TimerEvent\obj\x86\Debug\TimerEvent.exe
+F:\VS10Pro\TimerEvent\TimerEvent\obj\x86\Debug\TimerEvent.pdb
